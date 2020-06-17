@@ -1,0 +1,84 @@
+
+body {
+  font-size: 16px;
+  background-color: white;
+  font-family: helvetica sans-serif;
+  font-weight: bold;
+  height:1000px;
+}
+
+#header-nav {
+  background-color: grey;
+  border-radius:0;
+  border:0;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+.navbar-brand h1 { 
+  font-family: helvetica;
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.navbar-brand p span { 
+  vertical-align: middle;
+}
+
+.navbar-nav{background-color: brown}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-family: helvetica;
+}
+
+#nav-list a:hover {
+  background: white;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -33px;
+}
+
+.title1{font-weight: bold;font-size:1.8em; font-family: helvetica}
+
+div.section_title{
+          text-align: center;
+          font-size: 1.5em; 
+          color:black;
+          font-weight:bold;
+          background-color:grey;
+          padding-top: 3px;
+          padding-right:5px;
+          padding-left: 5px;
+          border-left: solid 15px white;
+          border-right: solid 15px white;
+          vertical-align: middle;
+          margin-top: 20px;
+          margin-right: auto;
+          margin-left: auto;
+          max-width: 1200px}
+
+p.section_text{text-align:left
+              ; padding-left: 7px
+              ; font-size: 0.8em}
+
+
+
+
